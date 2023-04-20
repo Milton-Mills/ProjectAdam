@@ -268,7 +268,7 @@ textarea {
 	font-size: 0.875rem;
 	line-height: 1.5rem;
 	font-family: "Open Sans"; /* overrides default browser settings */
-	-webkit-appearance: none; /* removes inner shadow on form inputs on ios safari */
+	appearance: none; /* removes inner shadow on form inputs on ios safari */
 }
 
 ::placeholder {
